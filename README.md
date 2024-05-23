@@ -1,14 +1,12 @@
 # vue-sneakers
 
-This template should help get you started developing with Vue 3 in Vite.
+Этот проект создан на Vue 3
 
-## Recommended IDE Setup
+Шаблон интернет-магазина, который позволяет добавлять товары в корзину, оформлять покупки, искать и фильтровать товары
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+![image](https://github.com/dennew052/vue-sneakers/assets/42219192/b11944ac-a521-4a49-aa82-272c79572f1f)
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+<p align="center"><img  src="https://github.com/dennew052/vue-sneakers/assets/42219192/d3161835-dc1d-4025-975a-26a4d0a9732a"></p>
 
 ## Project Setup
 
@@ -20,16 +18,4 @@ npm install
 
 ```sh
 npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
 ```
